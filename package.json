@@ -1,6 +1,6 @@
 {
   "name": "sqlfile-loader",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Basic SQL file loader with uglify option.",
   "keywords": [
     "sqlfile",
