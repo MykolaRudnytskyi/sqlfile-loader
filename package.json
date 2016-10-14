@@ -1,0 +1,20 @@
+{
+  "name": "sqlfile-loader",
+  "version": "1.0.0",
+  "description": "Basic SQL file loader with uglify option.",
+  "keywords": [
+    "sqlfile",
+    "loader",
+    "sql"
+  ],
+  "main": "lib/index.js",
+  "repository": {
+    "url": "https://github.com/fred-d/sqlfile-loader.git",
+    "type": "git"
+  },
+  "author": "Freddy Castillo <fred.d.castillo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pg-minify": "^0.3.3"
+  }
+}
