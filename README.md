@@ -14,7 +14,7 @@ $ yarn add sqlfile-loader
 ## Example
 
 ```js
-const init = require('sqlfile-loader');
+const sqlfileLoader = require('sqlfile-loader');
 
 let sqlfile = './example.sql'; // Path to an sql file
 let opts = {uglify: true};
